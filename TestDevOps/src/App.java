@@ -6,11 +6,6 @@ public class App {
 	    {
 	        System.out.println( "Hello World!" );
 	    }
-
-		@Override
-		public String toString() {
-			return "App []";
-		}
 	}
 
 
